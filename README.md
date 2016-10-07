@@ -5,6 +5,9 @@ This little sample is covering the issue of leaking API keys, and is inspired by
 
 If you keep your keys in strings.xml, or you hardcode them in Java it's trivial to decompile your APK and recover them.
 
+EDIT:
+There's a great repo about this topic [here] (https://github.com/pillfill/hiding-passwords-android)
+
 # Using CMAKE with Android Studio
 You can follow [this](https://developer.android.com/ndk/guides/index.html) guide to set up your ide.
 
